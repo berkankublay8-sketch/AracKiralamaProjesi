@@ -29,6 +29,8 @@ Sistem, araçları ve rezervasyonları JSON formatında diske kaydederek uygulam
 
 ---
 
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/e9ef0a0b-8e52-439e-b381-89c140c3c54c" />
+
 ## ✨ Özellikler
 
 | Özellik | Açıklama |
