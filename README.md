@@ -253,9 +253,6 @@ Tüm kullanıcı girişleri `try-catch` bloklarıyla sarmalanmıştır. Oluşan 
 
 ---
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
 
 ---
 
